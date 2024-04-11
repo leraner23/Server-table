@@ -2,6 +2,9 @@
 How to make table in the server using springTool / Visual Studio Codes 
 
 
+
+Note : you need Docker Desktop ,  Pgadmin , Springtool / Vs Code 
+
 // to create table 
 
     import java.sql.Connection;
